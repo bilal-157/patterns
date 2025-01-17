@@ -129,3 +129,36 @@ To excel in coding with Data Structures and Algorithms (DSA), understanding and 
    - Move to **linked lists**, **stacks**, and **queues**.
    - Learn **trees**, **graphs**, and **recursion**.
    - Dive into **dynamic programming** and **advanced topics** like **tries** and **segment trees**.
+  
+   If you learn and master the **11 major coding patterns** mentioned earlier, you will have the foundation to solve a significant number of problems on LeetCode. Here's an estimate:
+
+---
+
+### **LeetCode Problems by Pattern**
+
+| **Pattern**                | **Expected Problems You Can Solve** |
+|----------------------------|--------------------------------------|
+| **Sliding Window**          | ~100+                              |
+| **Two Pointers**            | ~150+                              |
+| **Fast and Slow Pointers**  | ~40+                               |
+| **Divide and Conquer**      | ~80+                               |
+| **Dynamic Programming**     | ~300+                              |
+| **Backtracking**            | ~150+                              |
+| **Greedy Algorithms**       | ~100+                              |
+| **Graph Traversal**         | ~200+                              |
+| **Union-Find**              | ~50+                               |
+| **Heap/Priority Queue**     | ~70+                               |
+| **Bit Manipulation**        | ~50+                               |
+
+
+### **Breakdown by Difficulty Level**
+1. **Easy Problems**: Around **400–500 problems**.
+2. **Medium Problems**: Around **600–700 problems**.
+3. **Hard Problems**: Around **200+ problems** (if you focus deeply on complex patterns like DP, graphs, and backtracking).
+
+---
+
+### **Key Takeaway**
+Mastering these patterns not only helps solve many problems but also makes tackling **new, unseen problems easier**, as most can be categorized under these patterns.
+
+Would you like recommendations on which problems to start with for any specific pattern? 😊
