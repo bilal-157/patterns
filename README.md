@@ -157,8 +157,19 @@ To excel in coding with Data Structures and Algorithms (DSA), understanding and 
 3. **Hard Problems**: Around **200+ problems** (if you focus deeply on complex patterns like DP, graphs, and backtracking).
 
 ---
+3. Learn Algorithms
+Focus on these key algorithms:
 
-### **Key Takeaway**
-Mastering these patterns not only helps solve many problems but also makes tackling **new, unseen problems easier**, as most can be categorized under these patterns.
+Sorting Algorithms: Bubble Sort, Merge Sort, Quick Sort, etc.
 
-Would you like recommendations on which problems to start with for any specific pattern? 😊
+Searching Algorithms: Linear Search, Binary Search
+
+Graph Algorithms: BFS, DFS, Dijkstra's Algorithm, etc.
+
+Dynamic Programming
+
+Greedy Algorithms
+
+Divide and Conquer
+
+Backtracking
