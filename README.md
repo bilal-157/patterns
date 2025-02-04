@@ -178,6 +178,38 @@ Here’s your **6-week structured DSA plan** with **daily topics and LeetCode pr
 
 ---
 
+Revised Plan (7 Weeks):
+🗓️ Week 7: Advanced Topics
+Day 43: Greedy Algorithms
+🔹 Problems:
+46. Activity Selection (Custom)
+47. Fractional Knapsack (Custom)
+
+Day 44: Advanced Graph Algorithms (Union-Find, MST)
+🔹 Problems:
+48. Number of Connected Components (323)
+49. Minimum Spanning Tree (Custom)
+
+Day 45: Advanced DP (Bitmask, DP on Trees)
+🔹 Problems:
+50. Traveling Salesman Problem (Custom)
+51. House Robber III (337)
+
+Day 46: Bit Manipulation
+🔹 Problems:
+52. Single Number (136)
+53. Counting Bits (338)
+
+Day 47: Trie & String Algorithms
+🔹 Problems:
+54. Implement Trie (208)
+55. Longest Common Prefix (14)
+
+Day 48: Segment Trees & Fenwick Trees
+🔹 Problems:
+56. Range Sum Query (307)
+
+Day 49: Review & Extra Practice
 ## **🚀 How to Study Daily?**
 ⏳ **2 Hours Breakdown:**  
 🔹 **1st Hour** → Watch a tutorial or read about the topic  
