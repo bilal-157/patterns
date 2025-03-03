@@ -1,218 +1,190 @@
-Here’s your **6-week structured DSA plan** with **daily topics and LeetCode problems**. Each day, you'll **spend 2 hours**:  
-
-- **1st Hour** → Learn the topic (read/watch tutorials)  
-- **2nd Hour** → Solve 3-5 LeetCode problems  
+Here's a structured **6-month roadmap** for **DSA (Data Structures & Algorithms) and Interview Preparation**, optimized for **1.5 hours per day**.  
 
 ---
 
-## **🗓️ Week 1: Basics & Arrays**
-### **🔹 Day 1: Time Complexity & Big-O Notation**  
-📌 **Learn:** Understanding Big-O, Best/Worst Case, Common Complexities  
-🔹 **Problems:** *(No coding today, just understanding Big-O of common algorithms)*  
+## **🗓️ Month 1: Basics of DSA & Problem-Solving**
+### **Goals:**
+- Understand fundamental concepts.
+- Get comfortable with problem-solving.
 
-### **🔹 Day 2: Arrays Basics (Insert, Delete, Traverse)**
-📌 **Learn:** Array implementation, indexing, updating values  
-🔹 **Problems:**  
-1. **Two Sum** (1)  
-2. **Best Time to Buy and Sell Stock** (121)  
-3. **Contains Duplicate** (217)  
+### **Topics & Tasks:**
+1. **Week 1:**  
+   - Time & Space Complexity  
+   - Big-O notation  
+   - Arrays: Basics & operations (insertion, deletion, traversal)  
+   - **Solve:** 10-15 easy problems  
 
-### **🔹 Day 3: Sorting (Bubble, Selection, Insertion)**
-📌 **Learn:** Basics of sorting, time complexity  
-🔹 **Problems:**  
-4. **Sort Colors** (75)  
-5. **Merge Intervals** (56)  
+2. **Week 2:**  
+   - Strings: Basics, palindrome, anagrams  
+   - Hashing & HashMaps (frequency count, two-sum problem)  
+   - **Solve:** 10-15 problems  
 
-### **🔹 Day 4: Two Pointers (Easy Problems)**  
-📌 **Learn:** How two pointers can optimize problems  
-🔹 **Problems:**  
-6. **3Sum** (15)  
-7. **Valid Palindrome** (125)  
-8. **Remove Duplicates from Sorted Array** (26)  
+3. **Week 3:**  
+   - Recursion: Basics, factorial, Fibonacci  
+   - Backtracking: N-Queens, Subset sum  
+   - **Solve:** 10-15 problems  
 
-### **🔹 Day 5: Sliding Window (Fixed & Variable Size)**  
-📌 **Learn:** Optimizing subarray problems with sliding window  
-🔹 **Problems:**  
-9. **Longest Substring Without Repeating Characters** (3)  
-10. **Maximum Subarray** (53)  
+4. **Week 4:**  
+   - Sorting (Bubble, Selection, Insertion, Merge, Quick Sort)  
+   - Searching (Binary Search & variations)  
+   - **Solve:** 15 problems  
 
-### **🔹 Day 6: Hashing (HashMap & HashSet Basics)**  
-📌 **Learn:** Using hash tables for efficient lookups  
-🔹 **Problems:**  
-11. **Valid Anagram** (242)  
-12. **Group Anagrams** (49)  
-13. **Subarray Sum Equals K** (560)  
-
-### **🔹 Day 7: Review & Extra Practice**  
-📌 **Go back to previous problems, revise concepts, and solve additional problems.**  
+📌 **Goal:** Solve **50-60 problems** in the first month.
 
 ---
 
-## **🗓️ Week 2: Searching, Recursion, Stacks & Queues**
-### **🔹 Day 8: Binary Search (Iterative & Recursive)**
-📌 **Learn:** How binary search works  
-🔹 **Problems:**  
-14. **Binary Search** (704)  
-15. **Find Minimum in Rotated Sorted Array** (153)  
-16. **Search a 2D Matrix** (74)  
+## **🗓️ Month 2: Intermediate DSA**
+### **Goals:**
+- Master recursion, linked lists, stacks, and queues.
+- Improve problem-solving skills.
 
-### **🔹 Day 9: Searching in Rotated Sorted Arrays**  
-📌 **Learn:** How binary search adapts to rotated arrays  
-🔹 **Problems:**  
-17. **Find Peak Element** (162)  
-18. **Search in Rotated Sorted Array** (33)  
+### **Topics & Tasks:**
+1. **Week 1:**  
+   - Linked List (Singly, Doubly, Circular)  
+   - Reverse a Linked List, Detect Cycle, Merge Sort on LL  
+   - **Solve:** 10-15 problems  
 
-### **🔹 Day 10: Recursion (Base Case & Recursive Calls)**  
-📌 **Learn:** How recursion works and avoiding infinite recursion  
-🔹 **Problems:**  
-19. **Power of Two** (231)  
-20. **Factorial & Fibonacci (Custom Practice)**  
+2. **Week 2:**  
+   - Stack (Using arrays & linked list)  
+   - Queue & Deque (Implementations, Applications)  
+   - **Solve:** 10-15 problems  
 
-### **🔹 Day 11: Backtracking (Subset & Permutations)**  
-📌 **Learn:** Generating all possible combinations  
-🔹 **Problems:**  
-21. **Subsets** (78)  
-22. **Combination Sum** (39)  
-23. **Permutations** (46)  
+3. **Week 3:**  
+   - Sliding Window Technique  
+   - Two Pointer Technique  
+   - **Solve:** 10-15 problems  
 
-### **🔹 Day 12: Stacks & Queues (Basic Operations)**  
-📌 **Learn:** Stack LIFO, Queue FIFO  
-🔹 **Problems:**  
-24. **Valid Parentheses** (20)  
-25. **Next Greater Element I** (496)  
+4. **Week 4:**  
+   - Bit Manipulation (AND, OR, XOR, Left & Right shift)  
+   - Greedy Algorithms (Activity selection, Huffman coding)  
+   - **Solve:** 15 problems  
 
-### **🔹 Day 13: Monotonic Stack & Deque**  
-📌 **Learn:** Optimizing problems with stacks  
-🔹 **Problems:**  
-26. **Daily Temperatures** (739)  
-27. **Asteroid Collision** (735)  
-
-### **🔹 Day 14: Review & Extra Practice**  
+📌 **Goal:** Solve **50-60 problems** in this month.
 
 ---
 
-## **🗓️ Week 3: Linked Lists**
-### **🔹 Day 15: Linked List Basics (Singly, Doubly)**  
-📌 **Learn:** How linked lists work  
-🔹 **Problems:**  
-28. **Reverse a Linked List** (206)  
+## **🗓️ Month 3: Advanced DSA**
+### **Goals:**
+- Learn Trees, Graphs & Dynamic Programming (DP).
+- Solve harder problems.
 
-### **🔹 Day 16: Slow & Fast Pointer Technique**  
-📌 **Learn:** Using two pointers in linked lists  
-🔹 **Problems:**  
-29. **Middle of the Linked List** (876)  
-30. **Linked List Cycle** (141)  
+### **Topics & Tasks:**
+1. **Week 1:**  
+   - Trees: Basics, Binary Trees, Traversals (Inorder, Preorder, Postorder)  
+   - BST: Insert, Delete, LCA, Kth smallest/largest  
+   - **Solve:** 10-15 problems  
 
-### **🔹 Day 17: Merging and Sorting Linked Lists**  
-📌 **Learn:** Merge Sort in linked lists  
-🔹 **Problems:**  
-31. **Merge Two Sorted Lists** (21)  
+2. **Week 2:**  
+   - Heaps (Min/Max heap, Heap Sort, Priority Queue)  
+   - Tries (Implementation, Auto-complete)  
+   - **Solve:** 10-15 problems  
 
-### **🔹 Day 18: Cycle Detection (Floyd’s Algorithm)**  
-📌 **Learn:** How to detect cycles efficiently  
-🔹 **Problems:**  
-32. **Linked List Cycle II** (142)  
+3. **Week 3:**  
+   - Graphs: Basics, BFS, DFS  
+   - Topological Sorting, Dijkstra’s Algorithm  
+   - **Solve:** 10-15 problems  
 
-### **🔹 Day 19: Stack & Queue using Linked Lists**  
-🔹 **Problems:**  
-33. **Implement Stack using Queues** (225)  
+4. **Week 4:**  
+   - Dynamic Programming (Memoization & Tabulation)  
+   - Fibonacci, Knapsack, Longest Common Subsequence  
+   - **Solve:** 15 problems  
 
-### **🔹 Day 20: Review & Extra Practice**  
-
----
-
-## **🗓️ Week 4: Trees**
-### **🔹 Day 21: Binary Tree Basics (DFS & BFS)**  
-🔹 **Problems:**  
-34. **Binary Tree Inorder Traversal** (94)  
-
-### **🔹 Day 22: Preorder, Inorder, Postorder Traversal**  
-🔹 **Problems:**  
-35. **Binary Tree Postorder Traversal** (145)  
-
-### **🔹 Day 23: Binary Search Tree (BST) Basics**  
-🔹 **Problems:**  
-36. **Validate Binary Search Tree** (98)  
-
-### **🔹 Day 24: Lowest Common Ancestor in a BST**  
-🔹 **Problems:**  
-37. **Lowest Common Ancestor of BST** (235)  
-
-### **🔹 Day 25: Height, Diameter, & Depth of Trees**  
-🔹 **Problems:**  
-38. **Diameter of Binary Tree** (543)  
+📌 **Goal:** Solve **50-60 problems** this month.
 
 ---
 
-## **🗓️ Week 5: Graphs**
-### **🔹 Day 27: Graph Basics (Adjacency List & Matrix)**  
-🔹 **Problems:**  
-39. **Number of Islands** (200)  
+## **🗓️ Month 4: Competitive Programming & Advanced DP**
+### **Goals:**
+- Master DP, Graphs & Advanced Algorithms.
+- Build confidence in problem-solving.
 
-### **🔹 Day 28: DFS & BFS on Graphs**  
-🔹 **Problems:**  
-40. **Course Schedule** (207)  
+### **Topics & Tasks:**
+1. **Week 1:**  
+   - More DP problems: LIS, Matrix Chain Multiplication, DP on Trees  
+   - **Solve:** 10-15 problems  
 
-### **🔹 Day 29: Dijkstra’s Algorithm (Shortest Path)**  
-🔹 **Problems:**  
-41. **Network Delay Time** (743)  
+2. **Week 2:**  
+   - Graphs: More advanced problems (Bridges, Articulation Points)  
+   - Disjoint Set Union (DSU), Kruskal’s & Prim’s Algorithm  
+   - **Solve:** 10-15 problems  
 
----
+3. **Week 3:**  
+   - Segment Trees & Fenwick Tree  
+   - **Solve:** 10-15 problems  
 
-## **🗓️ Week 6: Dynamic Programming**
-### **🔹 Day 33: DP Basics (Recursion + Memoization)**  
-🔹 **Problems:**  
-42. **Climbing Stairs** (70)  
+4. **Week 4:**  
+   - String Algorithms: KMP, Rabin-Karp  
+   - **Solve:** 15 problems  
 
-### **🔹 Day 34: Fibonacci, Climbing Stairs (Basic DP)**  
-🔹 **Problems:**  
-43. **House Robber** (198)  
-
-### **🔹 Day 35: 1D DP (House Robber, Jump Game)**  
-🔹 **Problems:**  
-44. **Jump Game** (55)  
-
-### **🔹 Day 36: 2D DP (Knapsack, Grid Problems)**  
-🔹 **Problems:**  
-45. **Coin Change** (322)  
+📌 **Goal:** Solve **50-60 problems** this month.
 
 ---
 
-Revised Plan (7 Weeks):
-🗓️ Week 7: Advanced Topics
-Day 43: Greedy Algorithms
-🔹 Problems:
-46. Activity Selection (Custom)
-47. Fractional Knapsack (Custom)
+## **🗓️ Month 5: System Design & Interview-Specific Prep**
+### **Goals:**
+- Learn basic system design.
+- Practice solving interview-level problems.
 
-Day 44: Advanced Graph Algorithms (Union-Find, MST)
-🔹 Problems:
-48. Number of Connected Components (323)
-49. Minimum Spanning Tree (Custom)
+### **Topics & Tasks:**
+1. **Week 1:**  
+   - Low-Level System Design (Object-Oriented Design, SOLID principles)  
+   - **Solve:** 10 problems  
 
-Day 45: Advanced DP (Bitmask, DP on Trees)
-🔹 Problems:
-50. Traveling Salesman Problem (Custom)
-51. House Robber III (337)
+2. **Week 2:**  
+   - High-Level System Design (Load balancing, Database sharding)  
+   - **Solve:** 10 problems  
 
-Day 46: Bit Manipulation
-🔹 Problems:
-52. Single Number (136)
-53. Counting Bits (338)
+3. **Week 3:**  
+   - Mock Interviews & Past Interview Questions (Amazon, Google, Microsoft)  
+   - **Solve:** 10 problems  
 
-Day 47: Trie & String Algorithms
-🔹 Problems:
-54. Implement Trie (208)
-55. Longest Common Prefix (14)
+4. **Week 4:**  
+   - Resume & Behavioral Questions Practice  
+   - **Solve:** 10 problems  
 
-Day 48: Segment Trees & Fenwick Trees
-🔹 Problems:
-56. Range Sum Query (307)
+📌 **Goal:** **Prepare for real interview scenarios**.
 
-Day 49: Review & Extra Practice
-## **🚀 How to Study Daily?**
-⏳ **2 Hours Breakdown:**  
-🔹 **1st Hour** → Watch a tutorial or read about the topic  
-🔹 **2nd Hour** → Solve 3-5 problems on LeetCode  
+---
 
-This **6-week plan** ensures **consistent learning + hands-on problem-solving**. Let me know if you need tweaks! 🚀🔥
+## **🗓️ Month 6: Full Mock Interviews & Revision**
+### **Goals:**
+- Revise all topics.
+- Focus on real interview experience.
+
+### **Tasks:**
+1. **Week 1 & 2:**  
+   - Revise past solved problems  
+   - Practice Mock Interviews (LeetCode, CodeForces, InterviewBit)  
+
+2. **Week 3 & 4:**  
+   - Participate in **Live Coding Contests**  
+   - Do **Company-Specific Practice** (Google, Amazon, Microsoft)  
+
+📌 **Goal:** **Be 100% interview-ready.**
+
+---
+
+## **📌 Additional Resources**
+1. **DSA Practice Platforms:**
+   - [LeetCode](https://leetcode.com/) (Best for interview prep)
+   - [CodeForces](https://codeforces.com/) (Competitive programming)
+   - [GeeksForGeeks](https://www.geeksforgeeks.org/) (Theory + Practice)
+   - [AtCoder](https://atcoder.jp/) (Math-heavy problems)
+
+2. **Books:**
+   - *Cracking the Coding Interview* – Gayle Laakmann McDowell
+   - *Grokking Algorithms* – Aditya Bhargava
+
+3. **Mock Interview Platforms:**
+   - [Pramp](https://www.pramp.com/)
+   - [Interviewing.io](https://interviewing.io/)
+   - [HackerRank](https://www.hackerrank.com/)
+
+---
+
+## **Final Summary**
+✅ **6 months structured plan**  
+✅ **Solve 300+ problems**  
+✅ **Be fully prepared for DSA-based interviews**  
+
+Would you like help tracking your progress? 🚀
