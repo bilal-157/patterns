@@ -1,5 +1,6 @@
+---
 
-### **🔹 ARRAYS & STRINGS (25)**
+## **🔹 ARRAYS & STRINGS (25)**
 1. Two Sum  
 2. Best Time to Buy and Sell Stock  
 3. Product of Array Except Self  
@@ -28,7 +29,7 @@
 
 ---
 
-### **🔹 LINKED LIST (13)**
+## **🔹 LINKED LIST (13)**
 26. Reverse a Linked List  
 27. Detect Cycle in a Linked List (Floyd's Algorithm)  
 28. Merge Two Sorted Lists  
@@ -45,7 +46,7 @@
 
 ---
 
-### **🔹 TREES (15)**
+## **🔹 TREES (15)**
 39. Maximum Depth of Binary Tree  
 40. Validate Binary Search Tree  
 41. Valid Binary Tree  
@@ -64,7 +65,7 @@
 
 ---
 
-### **🔹 GRAPHS (15)**
+## **🔹 GRAPHS (15)**
 54. Clone Graph  
 55. Course Schedule (Topological Sort)  
 56. Number of Islands (DFS/BFS)  
@@ -83,7 +84,7 @@
 
 ---
 
-### **🔹 HEAPS & PRIORITY QUEUES (7)**
+## **🔹 HEAPS & PRIORITY QUEUES (7)**
 69. Kth Largest Element in a Stream  
 70. Find Median from Data Stream  
 71. Top K Frequent Elements  
@@ -94,7 +95,7 @@
 
 ---
 
-### **🔹 STACKS & QUEUES (8)**
+## **🔹 STACKS & QUEUES (8)**
 76. Implement Queue Using Stacks  
 77. Implement Stack Using Queues  
 78. Min Stack  
@@ -106,7 +107,7 @@
 
 ---
 
-### **🔹 DYNAMIC PROGRAMMING (15)**
+## **🔹 DYNAMIC PROGRAMMING (15)**
 84. Climbing Stairs  
 85. Coin Change  
 86. Longest Increasing Subsequence  
@@ -125,7 +126,7 @@
 
 ---
 
-### **🔹 BACKTRACKING (12)**
+## **🔹 BACKTRACKING (12)**
 99. Subsets  
 100. Permutations  
 101. Combination Sum  
@@ -141,7 +142,7 @@
 
 ---
 
-### **🔹 BINARY SEARCH (11)**
+## **🔹 BINARY SEARCH (11)**
 111. Find First and Last Position of an Element  
 112. Search a 2D Matrix  
 113. Median of Two Sorted Arrays  
@@ -152,5 +153,26 @@
 118. H-Index II  
 119. Time-Based Key-Value Store  
 120. Aggressive Cows  
+121. Find Peak Element  
+
+---
+
+## **🔹 HASH TABLES & TRIES (5)**
+122. Implement Trie (Prefix Tree)  
+123. Design HashMap  
+124. First Unique Character in a String  
+125. Longest Consecutive Sequence  
+126. Word Search II (Trie + Backtracking)  
+
+---
+
+## **🔹 MISCELLANEOUS (7)**
+127. Set Matrix Zeroes  
+128. Find the Duplicate Number (Floyd's Algorithm)  
+129. Queue Reconstruction by Height  
+130. Insert Interval  
+131. Longest Valid Parentheses  
+132. Shortest Path in a Grid with Obstacles Elimination  
+133. Meeting Rooms II  
 
 ---
