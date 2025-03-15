@@ -1,0 +1,156 @@
+
+### **🔹 ARRAYS & STRINGS (25)**
+1. Two Sum  
+2. Best Time to Buy and Sell Stock  
+3. Product of Array Except Self  
+4. Maximum Subarray (Kadane's Algorithm)  
+5. Merge Intervals  
+6. Find Maximum in Rotated Sorted Array  
+7. Search in Rotated Sorted Array  
+8. 3Sum  
+9. Container with Most Water  
+10. Subarray Sum Equals K  
+11. Valid Palindrome  
+12. Longest Substring Without Repeating Characters  
+13. Longest Palindrome Substring  
+14. Group Anagrams  
+15. Valid Parentheses  
+16. Minimum Window Substring  
+17. Trapping Rain Water  
+18. Jump Game  
+19. Rotate Image  
+20. Spiral Matrix  
+21. Sliding Window Maximum  
+22. Next Permutation  
+23. First Missing Positive  
+24. Largest Rectangle in Histogram  
+25. Find All Anagrams in a String  
+
+---
+
+### **🔹 LINKED LIST (13)**
+26. Reverse a Linked List  
+27. Detect Cycle in a Linked List (Floyd's Algorithm)  
+28. Merge Two Sorted Lists  
+29. Remove Nth Node from End of List  
+30. Add Two Numbers (Linked List)  
+31. Intersection of Two Linked Lists  
+32. Copy List with Random Pointer  
+33. LRU Cache (Design)  
+34. Palindrome Linked List  
+35. Flatten a Multilevel Doubly Linked List  
+36. Reverse Nodes in k-Group  
+37. Sort List  
+38. Rotate Linked List  
+
+---
+
+### **🔹 TREES (15)**
+39. Maximum Depth of Binary Tree  
+40. Validate Binary Search Tree  
+41. Valid Binary Tree  
+42. Binary Tree Level Order Traversal  
+43. Serialize and Deserialize Binary Tree  
+44. Lowest Common Ancestor (LCA) of a Binary Tree  
+45. Subtree of Another Tree  
+46. Construct Binary Tree from Preorder and Inorder Traversal  
+47. Kth Smallest Element in a BST  
+48. Binary Tree Maximum Path Sum  
+49. Binary Tree Zigzag Level Order Traversal  
+50. Construct Binary Tree from Postorder and Inorder Traversal  
+51. Kth Largest Element in a BST  
+52. Diameter of Binary Tree  
+53. Count Complete Tree Nodes  
+
+---
+
+### **🔹 GRAPHS (15)**
+54. Clone Graph  
+55. Course Schedule (Topological Sort)  
+56. Number of Islands (DFS/BFS)  
+57. Pacific Atlantic Water Flow  
+58. Word Ladder (BFS)  
+59. Alien Dictionary (Topological Sort)  
+60. Cheapest Flights Within K Stops (Dijkstra/Bellman-Ford)  
+61. Network Delay Time (Dijkstra)  
+62. Minimum Height Trees (Centroid BFS)  
+63. Graph Valid Tree (Union-Find)  
+64. Redundant Connection  
+65. Strongly Connected Components (Kosaraju’s Algorithm)  
+66. Bellman-Ford Algorithm  
+67. Critical Connections in a Network (Tarjan’s Algorithm)  
+68. Number of Provinces (Connected Components in Adjacency Matrix)  
+
+---
+
+### **🔹 HEAPS & PRIORITY QUEUES (7)**
+69. Kth Largest Element in a Stream  
+70. Find Median from Data Stream  
+71. Top K Frequent Elements  
+72. K Closest Points to Origin  
+73. Task Scheduler  
+74. Merge K Sorted Lists  
+75. Sliding Window Median  
+
+---
+
+### **🔹 STACKS & QUEUES (8)**
+76. Implement Queue Using Stacks  
+77. Implement Stack Using Queues  
+78. Min Stack  
+79. Evaluate Reverse Polish Notation  
+80. Next Greater Element (Monotonic Stack)  
+81. Basic Calculator (I, II, III)  
+82. Asteroid Collision  
+83. Largest Rectangle in Histogram  
+
+---
+
+### **🔹 DYNAMIC PROGRAMMING (15)**
+84. Climbing Stairs  
+85. Coin Change  
+86. Longest Increasing Subsequence  
+87. Word Break  
+88. House Robber  
+89. Unique Paths  
+90. Decode Ways  
+91. Edit Distance  
+92. Maximum Product Subarray  
+93. Partition Equal Subset Sum  
+94. Longest Palindromic Subsequence  
+95. Burst Balloons  
+96. Palindrome Partitioning II  
+97. Russian Doll Envelopes  
+98. Cherry Pickup  
+
+---
+
+### **🔹 BACKTRACKING (12)**
+99. Subsets  
+100. Permutations  
+101. Combination Sum  
+102. Generate Parentheses  
+103. Sudoku Solver  
+104. N-Queens  
+105. Palindrome Partitioning  
+106. Letter Combinations of a Phone Number  
+107. Restore IP Addresses  
+108. Word Search  
+109. Combinations  
+110. Word Search II  
+
+---
+
+### **🔹 BINARY SEARCH (11)**
+111. Find First and Last Position of an Element  
+112. Search a 2D Matrix  
+113. Median of Two Sorted Arrays  
+114. Sqrt(x)  
+115. Koko Eating Bananas  
+116. Capacity to Ship Packages Within D Days  
+117. Split Array Largest Sum  
+118. H-Index II  
+119. Time-Based Key-Value Store  
+120. Aggressive Cows  
+
+---
