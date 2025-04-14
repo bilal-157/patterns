@@ -1,9 +1,3 @@
-Good question — in Data Structures and Algorithms (DSA), certain patterns come up again and again across different problems.  
-If you master these patterns, **you can crack almost any problem** much faster.
-
-Here are the **most used DSA patterns**:
-
----
 
 ### 1. **Two Pointers**
 - Used when dealing with **arrays** or **linked lists**.
