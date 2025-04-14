@@ -1,0 +1,116 @@
+Good question — in Data Structures and Algorithms (DSA), certain patterns come up again and again across different problems.  
+If you master these patterns, **you can crack almost any problem** much faster.
+
+Here are the **most used DSA patterns**:
+
+---
+
+### 1. **Two Pointers**
+- Used when dealing with **arrays** or **linked lists**.
+- One pointer starts at the beginning, the other at the end, and they move toward each other.
+- **Examples:** 
+  - Check if a string is a palindrome
+  - Sort colors (Dutch National Flag problem)
+  - 2 Sum in sorted array
+
+---
+
+### 2. **Sliding Window**
+- Used for problems with **contiguous subarrays or substrings**.
+- Instead of recalculating the sum/product again and again, slide the window over the array.
+- **Examples:**
+  - Maximum sum subarray of size K
+  - Longest substring with K distinct characters
+
+---
+
+### 3. **Fast and Slow Pointers (Tortoise and Hare)**
+- Detect cycles in a linked list or array.
+- **Examples:**
+  - Detect cycle in linked list
+  - Find middle of linked list
+
+---
+
+### 4. **Binary Search**
+- Used for **sorted arrays**, **search spaces**, or **answer-based search**.
+- Cuts search space in half every time.
+- **Examples:**
+  - Find an element in a sorted array
+  - Find square root of a number
+  - Minimize the largest sum in array partitioning
+
+---
+
+### 5. **Dynamic Programming (DP)**
+- Breaks problems into **overlapping subproblems** and stores results.
+- **Examples:**
+  - Fibonacci sequence
+  - 0/1 Knapsack
+  - Longest Common Subsequence (LCS)
+
+---
+
+### 6. **Backtracking**
+- Try out all possibilities but **"backtrack"** if it doesn’t lead to a solution.
+- **Examples:**
+  - N-Queens
+  - Sudoku Solver
+  - Subsets, Permutations generation
+
+---
+
+### 7. **Greedy Algorithms**
+- Make **locally optimal choices** at each step hoping for a global optimum.
+- **Examples:**
+  - Activity selection
+  - Huffman encoding
+  - Fractional knapsack
+
+---
+
+### 8. **Union Find / Disjoint Set Union (DSU)**
+- Helps in **connectivity** problems (e.g., graphs, networks).
+- **Examples:**
+  - Find cycles in a graph
+  - Kruskal’s Algorithm (for Minimum Spanning Tree)
+
+---
+
+### 9. **Topological Sort (Graphs)**
+- Used for **ordering tasks** (especially when dependencies exist).
+- **Examples:**
+  - Course Schedule problem
+  - Build order in project management
+
+---
+
+### 10. **Bit Manipulation**
+- Solve problems **efficiently using binary operations**.
+- **Examples:**
+  - Find single number in an array where every element appears twice
+  - Subset generation using bits
+
+---
+
+### Bonus:
+- **Prefix Sum / Difference Arrays:** (Range queries in O(1))
+- **Recursion + Memoization:** (especially in tree and graph problems)
+- **Heap / Priority Queue Usage:** (especially in greedy and optimization problems)
+
+---
+🔥 A Realistic Preparation Plan:
+
+Learn Patterns → (You are already starting ✅)
+
+Solve 5–10 classic problems per pattern
+
+After patterns, do 50-100 mixed problems (mock real interviews)
+
+Start mock interviews with a friend or online
+
+System Design + Behavioral Interviews for senior levels
+
+Quick note:
+FAANG also cares about System Design for SDE-2 and above.
+For entry-level (new grad/SDE-1), DSA + Clear Thinking is enough.
