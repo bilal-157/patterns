@@ -26,7 +26,7 @@
 24. Largest Rectangle in Histogram  
 25. Find All Anagrams in a String  
 
----
+----
 
 ## **🔹 LINKED LIST (13)**
 26. Reverse a Linked List  
@@ -43,7 +43,7 @@
 37. Sort List  
 38. Rotate Linked List  
 
----
+----
 
 ## **🔹 TREES (15)**
 39. Maximum Depth of Binary Tree  
