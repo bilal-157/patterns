@@ -1,4 +1,4 @@
-A structured **6-month roadmap** for **DSA (Data Structures & Algorithms) and Interview Preparation**, optimized for **1.5 hours per day**.  
+A structured **6-month roadmap** for **DSA (Data Structures & Algorithms) and Interview Preparation**, optimized for **1.5 hours per day**...
 
 ---
 
