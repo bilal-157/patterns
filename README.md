@@ -3,6 +3,7 @@ A structured **6-month roadmap** for **DSA (Data Structures & Algorithms) and In
 ---
 
 ## **🗓️ Month 1: Basics of DSA & Problem-Solving**
+
 ### **Goals:**
 - Understand fundamental concepts.
 - Get comfortable with problem-solving.
