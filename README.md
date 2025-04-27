@@ -127,6 +127,7 @@ A structured **6-month roadmap** for **DSA (Data Structures & Algorithms) and In
 - Practice solving interview-level problems.
 
 ### **Topics & Tasks:**
+
 1. **Week 1:**  
    - Low-Level System Design (Object-Oriented Design, SOLID principles)  
    - **Solve:** 10 problems  
