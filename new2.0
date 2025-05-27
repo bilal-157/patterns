@@ -1,0 +1,197 @@
+Sure, Bilal! Here's a **clear path** for learning DSA and **how much** you should learn to become solid in problem-solving. Since you're aiming for full-stack and maybe competitive coding or tech interviews, this roadmap focuses on **practical depth** — not just theory.
+
+---
+
+## 📚 **What You Should Learn in DSA (and How Much)**
+
+---
+
+### 🟩 **1. Arrays & Strings (Start Here)**
+
+**Learn:**
+
+* Basics (declaration, iteration)
+* Searching, sorting
+* Reversing, rotations
+* Sliding window (max sum, min length)
+* Two pointers (pairs, duplicates)
+* Prefix sums
+
+**How Much:**
+
+* At least **30–40 problems**
+* Get comfortable manipulating them
+
+---
+
+### 🟩 **2. Hashing (HashMap, Set)**
+
+**Learn:**
+
+* Frequency count
+* Finding duplicates
+* Hashing with arrays/strings
+* Use cases in search optimization
+
+**How Much:**
+
+* **15–20 problems**
+
+---
+
+### 🟨 **3. Recursion & Backtracking**
+
+**Learn:**
+
+* Basic recursion (factorial, sum)
+* Backtracking (n-queens, permutations, subsets)
+
+**How Much:**
+
+* **20–25 problems**
+* Understand call stack, base case
+
+---
+
+### 🟨 **4. Linked List**
+
+**Learn:**
+
+* Singly, Doubly
+* Reversal, middle element
+* Cycle detection (Floyd’s algorithm)
+* Merging & sorting
+
+**How Much:**
+
+* **15–20 problems**
+
+---
+
+### 🟨 **5. Stack & Queue**
+
+**Learn:**
+
+* Basic stack/queue operations
+* Infix → postfix
+* Valid parentheses
+* Monotonic stacks (next greater element)
+
+**How Much:**
+
+* **15–20 problems**
+
+---
+
+### 🟧 **6. Binary Search**
+
+**Learn:**
+
+* On sorted arrays
+* First/last occurrence
+* Search on answer space (like min/max value problems)
+
+**How Much:**
+
+* **20–25 problems**
+
+---
+
+### 🟧 **7. Trees & BSTs**
+
+**Learn:**
+
+* Inorder, Preorder, Postorder
+* BFS/DFS
+* Lowest Common Ancestor (LCA)
+* Balanced BST
+
+**How Much:**
+
+* **20–30 problems**
+
+---
+
+### 🟥 **8. Heaps / Priority Queue**
+
+**Learn:**
+
+* Min heap, max heap
+* Top K elements
+* Median in stream
+
+**How Much:**
+
+* **10–15 problems**
+
+---
+
+### 🟥 **9. Graphs**
+
+**Learn:**
+
+* BFS, DFS
+* Cycle detection
+* Shortest path (Dijkstra)
+* Union-Find (DSU)
+* Topological sort
+
+**How Much:**
+
+* **20–30 problems**
+
+---
+
+### 🟥 **10. Dynamic Programming (DP)**
+
+**Learn:**
+
+* 0/1 Knapsack
+* Fibonacci (memo/tabu)
+* Subset sum, coin change
+* Longest Increasing Subsequence (LIS)
+* Longest Common Subsequence (LCS)
+
+**How Much:**
+
+* **25–30 problems**
+
+---
+
+### 🟥 **11. Bit Manipulation (Optional but Useful)**
+
+**Learn:**
+
+* Bitwise AND, OR, XOR
+* Set, clear, toggle bit
+* Power of 2 check
+* Subset generation
+
+**How Much:**
+
+* **10–15 problems**
+
+---
+
+## 🧠 **Total You Should Practice:**
+
+> **200–250 quality problems** across all topics.
+
+That’s enough to build strong DSA confidence for interviews and projects.
+
+---
+
+### ⏱️ **If You Can Study \~2 Hours/Day**
+
+| Duration   | Topics to Cover                         |
+| ---------- | --------------------------------------- |
+| Week 1–2   | Arrays + Strings + Hashing              |
+| Week 3–4   | Recursion + Backtracking + Linked Lists |
+| Week 5     | Stack + Queue + Binary Search           |
+| Week 6–7   | Trees + BSTs                            |
+| Week 8     | Heaps + Sorting Algorithms              |
+| Week 9–10  | Graphs (DFS, BFS, DSU, Dijkstra)        |
+| Week 11–13 | Dynamic Programming                     |
+| Week 14    | Bit Manipulation + Revision             |
+
+---
