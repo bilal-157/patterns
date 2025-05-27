@@ -1,0 +1,101 @@
+Absolutely! Here's a curated list of **LeetCode** problems mapped to the topics in your Arrays & Strings outline. I focused on **Easy** and **Medium** difficulties to help you build a solid foundation.
+
+---
+
+### 1. **Basics**
+
+* Easy
+
+  * [Array Partition I](https://leetcode.com/problems/array-partition-i/) - #561
+  * [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) - #1295
+
+---
+
+### 2. **Searching & Sorting**
+
+* Linear Search & Binary Search
+
+  * Easy: [Binary Search](https://leetcode.com/problems/binary-search/) - #704
+  * Medium: [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - #33
+
+* Sorting
+
+  * Easy: [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) - #905
+  * Medium: [Sort Colors](https://leetcode.com/problems/sort-colors/) - #75
+
+---
+
+### 3. **Reversing & Rotations**
+
+* Reversing
+
+  * Easy: [Reverse String](https://leetcode.com/problems/reverse-string/) - #344
+  * Easy: [Reverse Integer](https://leetcode.com/problems/reverse-integer/) - #7
+
+* Rotations
+
+  * Medium: [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - #153
+  * Medium: [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - #33
+
+---
+
+### 4. **Sliding Window**
+
+* Fixed and Variable Size
+
+  * Medium: [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) - #209
+  * Medium: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - #3
+  * Medium: [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) - #239
+
+---
+
+### 5. **Two Pointers**
+
+* Pairs/Sum
+
+  * Easy: [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - #167
+  * Medium: [3Sum](https://leetcode.com/problems/3sum/) - #15
+
+* Duplicates
+
+  * Easy: [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - #26
+  * Medium: [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) - #80
+
+* Other
+
+  * Medium: [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) - #88
+  * Hard (optional for later): [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - #42
+
+---
+
+### 6. **Prefix Sums**
+
+* Easy: [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) - #1480
+* Medium: [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) - #560
+* Medium: [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) - #325
+
+---
+
+### **Bonus: String-Specific**
+
+* Easy: [Valid Anagram](https://leetcode.com/problems/valid-anagram/) - #242
+* Medium: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) - #5
+* Medium: [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) - #76
+
+---
+
+### Quick practice starter list (Easy + Medium)
+
+| Topic                 | Problem Name                   | Number |
+| --------------------- | ------------------------------ | ------ |
+| Binary Search         | Binary Search                  | #704   |
+| Rotated Array         | Search in Rotated Sorted Array | #33    |
+| Sliding Window        | Minimum Size Subarray Sum      | #209   |
+| Two Pointers          | Two Sum II                     | #167   |
+| Prefix Sum            | Subarray Sum Equals K          | #560   |
+| String Anagram        | Valid Anagram                  | #242   |
+| Palindromic Substring | Longest Palindromic Substring  | #5     |
+
+---
+
+If you want, I can help create a weekly study plan with these problems or provide hints/solutions. Just ask!
