@@ -1,0 +1,100 @@
+Here’s a structured breakdown of what you should cover under **Arrays & Strings** for a strong foundation in DSA (Data Structures and Algorithms):
+
+---
+
+### **1. Basics**
+- **Declaration & Initialization**: 
+  - How to declare/initialize arrays in your language (static vs. dynamic).
+  - Multidimensional arrays (2D, 3D).
+- **Iteration**: 
+  - Loops (`for`, `while`, `foreach`).
+  - Handling edge cases (empty array, single element).
+- **Common Operations**:
+  - Length/size, access/modify elements, copying arrays.
+  - Strings: Immutability (in languages like Java/Python), character arrays vs. strings.
+
+---
+
+### **2. Searching & Sorting**
+- **Searching**:
+  - Linear search.
+  - Binary search (sorted arrays, rotated sorted arrays).
+  - Ternary search (optional).
+- **Sorting**:
+  - Basic sorts: Bubble, Selection, Insertion.
+  - Advanced sorts: Merge, Quick, Heap (priority queues).
+  - Non-comparison sorts: Counting, Radix (for specific cases).
+  - In-built sort functions (e.g., `Arrays.sort()` in Java, `sorted()` in Python).
+
+---
+
+### **3. Reversing & Rotations**
+- **Reversing**:
+  - Full array or subarrays (two-pointer approach).
+  - In-place vs. extra space.
+- **Rotations**:
+  - Left/right rotations (brute-force vs. Juggling/Reversal algorithm).
+  - Problems: Find minimum in rotated sorted array, search in rotated array.
+
+---
+
+### **4. Sliding Window**
+- **Fixed-Size Window**:
+  - Max/min sum of subarrays of size `k`.
+  - First negative number in every window.
+- **Variable-Size Window**:
+  - Longest subarray with sum `≤ k`.
+  - Minimum window substring (strings).
+- **Technique**: 
+  - Window expansion/contraction, hash maps for tracking.
+
+---
+
+### **5. Two Pointers**
+- **Pairs/Sum Problems**:
+  - Two-sum, three-sum, four-sum.
+  - Pair with given sum/difference.
+- **Duplicates**:
+  - Remove duplicates from sorted/unsorted arrays.
+  - Squaring sorted array (two pointers from end).
+- **Other**:
+  - Merge two sorted arrays (used in Merge Sort).
+  - Trapping rainwater problem.
+
+---
+
+### **6. Prefix Sums (Cumulative Sum)**
+- **Basics**:
+  - Prefix sum array construction.
+  - Range sum queries (e.g., `sum(arr[i..j])` in O(1)).
+- **Applications**:
+  - Equilibrium index (sum left = sum right).
+  - Subarray with sum 0/k (with hashing).
+  - Maximum subarray sum (Kadane’s Algorithm variant).
+
+---
+
+### **Bonus: String-Specific Topics**
+- **Pattern Matching**:
+  - Brute-force, Rabin-Karp, KMP (advanced).
+- **Anagrams/Palindromes**:
+  - Check valid anagram (hash maps/sorting).
+  - Longest palindromic substring (expand around center/DP).
+- **Encoding/Decoding**:
+  - Run-length encoding (e.g., "aaabb" → "a3b2").
+
+---
+
+### **Practice Problems**
+1. **Easy**: Two Sum, Reverse String, Maximum Subarray.
+2. **Medium**: Sliding Window Maximum, Longest Substring Without Repeating Chars.
+3. **Hard**: Minimum Window Substring, Trapping Rain Water.
+
+--- 
+
+### **Tips**
+- Focus on **in-place operations** (saves space).
+- Master **edge cases** (empty input, duplicates, negatives).
+- Time complexity analysis for each approach.
+
+Let me know if you'd like deep dives into any subtopic! 🚀
