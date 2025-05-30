@@ -1,0 +1,39 @@
+Certainly! Here are the links to the LeetCode problems related to hashing concepts like frequency count, finding duplicates, and search optimization:
+
+---
+
+### 🔢 **Hashing-Based Easy Problems on LeetCode**
+
+1. **[Two Sum (LeetCode 1)](https://leetcode.com/problems/two-sum/)**
+   *Find indices of two numbers that add up to a target.*
+
+2. **[Valid Anagram (LeetCode 242)](https://leetcode.com/problems/valid-anagram/)**
+   *Check if two strings are anagrams using character frequency.*
+
+3. **[First Unique Character in a String (LeetCode 387)](https://leetcode.com/problems/first-unique-character-in-a-string/)**
+   *Find the index of the first non-repeating character.*
+
+4. **[Contains Duplicate (LeetCode 217)](https://leetcode.com/problems/contains-duplicate/)**
+   *Determine if any value appears at least twice in the array.*
+
+5. **[Intersection of Two Arrays (LeetCode 349)](https://leetcode.com/problems/intersection-of-two-arrays/)**
+   *Return the intersection of two arrays.*
+
+6. **[Single Number (LeetCode 136)](https://leetcode.com/problems/single-number/)**
+   *Find the element that appears only once when every other element appears twice.*
+
+7. **[Contains Duplicate II (LeetCode 219)](https://leetcode.com/problems/contains-duplicate-ii/)**
+   *Check for duplicates within a given index distance.*
+
+8. **[Isomorphic Strings (LeetCode 205)](https://leetcode.com/problems/isomorphic-strings/)**
+   *Determine if two strings are isomorphic.*
+
+9. **[Word Pattern (LeetCode 290)](https://leetcode.com/problems/word-pattern/)**
+   *Check if a string follows a given pattern.*
+
+10. **[Sort Characters By Frequency (LeetCode 451)](https://leetcode.com/problems/sort-characters-by-frequency/)**
+    *Sort characters in decreasing order based on frequency.*
+
+---
+
+These problems are excellent for practicing hashing techniques using `dict`, `set`, and `collections.Counter` in Python. If you'd like detailed explanations or Python implementations for any of these problems, feel free to ask!
