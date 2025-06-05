@@ -1,5 +1,4 @@
 
-
 ### 1. **Two Pointers**
 - Used when dealing with **arrays** or **linked lists**.
 - One pointer starts at the beginning, the other at the end, and they move toward each other.
