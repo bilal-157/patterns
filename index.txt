@@ -1,5 +1,3 @@
-
-
 ## **🔹 ARRAYS & STRINGS (25)**
 
 1. Two Sum  
