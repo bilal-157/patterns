@@ -1,5 +1,3 @@
-
-
 ## **🗓️ Month 1: Basics of DSA & Problem-Solving**
 
 ### **Goals:**
