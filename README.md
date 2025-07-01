@@ -14,8 +14,8 @@
 2. **Week 2:**  
    - Strings: Basics, palindrome, anagrams  
    - Hashing & HashMaps (frequency count, two-sum problem)  
-   - **Solve:** 10-15 problems  
-
+   - **Solve:** 10-15 problems
+   - 
 3. **Week 3:**  
    - Recursion: Basics, factorial, Fibonacci  
    - Backtracking: N-Queens, Subset sum  
